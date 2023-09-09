@@ -1,0 +1,17 @@
+#println is used to display the content within  
+# Static: It's used to  indicates that the method belongs to the class itself rather than to an instance of the class. 
+# main method must be declared as Static 
+# public: It's an access modifier used to set the level to which a class can be accessed 
+# void : It's a return type. It denotes that the main function doesn't require any  specific return type. 
+#System : It's a class in java.lang  library  
+# out : It's a member of system class 
+# println : It's a method of out  
+
+
+
+public class b1{
+public static void main(String [] args){ 
+     System.out.println("Hello, World.");
+     System.out.println("Hello, Java.");   
+      } 
+}
